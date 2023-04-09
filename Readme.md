@@ -1,6 +1,8 @@
 # Mp3 Renaming Script
 
-This script allows you to rename multiple MP3 files based on their metadata, specifically the title tag. (You can cahnge this as you seem fit) 
+> If you've got a large number of audio files you want to rename, then this is for you
+
+>>This script allows you to rename multiple MP3 files based on their metadata, specifically the title tag. (You can cahnge this as you seem fit) 
 
 **Prerequisites**
 
